@@ -1,1 +1,5 @@
-Edit
+Book Name: A Database Internals: A Deep Dive into How Distributed Data Systems Work(Chapter 1)
+
+Link of editable concept map: https://lucid.app/lucidspark/invitations/accept/e8f1114d-eb42-4da5-bd3f-5691879c861e
+
+
